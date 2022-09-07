@@ -1,0 +1,71 @@
+7850, Steven Spielberg लाय सरपाटिल
+6681, MTV निवेदिता सेतु
+6113, Indian removal ब्याडगी
+5603, Francisco Franco सहस्रबाहु मंदिर
+7992, Sydney खारदुंग ला
+4637, Bloody Sunday (1972) नसवाड़ी
+4771, Chicago White Sox शिमला जिला
+6795, Mao Zedong बाहबारी गाँव
+7655, Rush Limbaugh शमीम आलम
+6254, James Madison बड़कालिकापुर
+0.07664346694946289
+
+6839, Massachusetts Bay Transportation Authority नागरकोविल
+4524, BBC Radio 1 पिरानूर
+6891, Manchester रग्बी यूनियन
+4216, Austin, Texas होशियारपुर
+7655, Rush Limbaugh शमीम आलम
+7064, Nairobi राजिन्दर सिंह
+5217, Derry विलियम लॉंगचैम्प
+6907, Motorola 6809 पीटर कर्स्टन
+5118, Major depressive disorder क्रिस गेल
+6757, Economy of Morocco कटी पतंग
+0.09982752799987793
+
+8064, Superman अल आमेरत क्रिकेट स्टेडियम
+5630, Fantastic Four थांदो नितिनी
+8491, Champion of the Universe राष्ट्रकूट राजवंश
+8000, Spider-Man भारत में कम्पनी शासन
+6646, Lex Luthor बैंक ऑफ अमेरिका स्टेडियम
+7099, Neuromancer हेरक्लिटस
+5008, Professor X निर्मल सैनी
+758, Iceman (Marvel Comics)
+8766, Wallace and Gromit अहमद बख्‍श
+8225, Sentinel (comics) ऐमारैंथेसी
+0.09630012512207031
+
+9991, Free-space path loss प्राकृतिक भूवैज्ञानिक इतिहास
+282, Connected space
+1170, Princeton University
+8432, Temple of Set २००४ यूईएफए चैंपियंस लीग फाइनल
+4345, Angular momentum दैनिक दबंग दुनिया
+4485, Buckminster Fuller राष्ट्रीय कृषि और ग्रामीण विकास बैंक
+4029, Apollo 11 लामलाइ
+8661, Vermont ओवडा रीजियो
+6998, Masada तईक्काड
+4209, Apollo 17 थराद
+0.06085944175720215
+
+1287, Swedish language
+7636, Quake (video game) अपक्ष
+7714, Robert Menzies तरीचरकलाँ
+8432, Temple of Set २००४ यूईएफए चैंपियंस लीग फाइनल
+6601, Latin alphabet मोहिउद्दीन नगर
+7994, Walter Scott मारियूपोल की घेराबंदी
+9563, Æsir वशिस्त मुनि
+4563, Bud Selig दाँइहाट
+5742, Grover Cleveland पश्चिम गोदावरी जिला
+9827, James A. Garfield स्यादवाद
+0.08432483673095703
+
+1170, Princeton University
+8432, Temple of Set २००४ यूईएफए चैंपियंस लीग फाइनल
+4345, Angular momentum दैनिक दबंग दुनिया
+4485, Buckminster Fuller राष्ट्रीय कृषि और ग्रामीण विकास बैंक
+4029, Apollo 11 लामलाइ
+9991, Free-space path loss प्राकृतिक भूवैज्ञानिक इतिहास
+8661, Vermont ओवडा रीजियो
+282, Connected space
+6998, Masada तईक्काड
+4209, Apollo 17 थराद
+0.046501874923706055
